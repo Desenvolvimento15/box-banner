@@ -13,6 +13,11 @@ justify-content: center;
 min-height: 100vh;
 }
 
+.grid{
+display: grid;
+flex-direction: 1fr 1fr;
+}
+
 .card{
 position: relative;
 width: 600px;
