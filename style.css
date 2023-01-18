@@ -113,7 +113,9 @@ display: inline-block;
 font-weight: 700;
 transition: 0.5s;
 }
+
 /*=================================================Card 2=====================================================*/
+
 .card2 {
 position: relative;
 width: 450rem;
@@ -317,7 +319,9 @@ display: inline-block;
 font-weight: 700;
 transition: 0.5s;
 }
+
 /*=================================================Card 4=====================================================*/
+
 .card4 {
 position: relative;
 width: 450rem;
